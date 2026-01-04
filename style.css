@@ -1,0 +1,25 @@
+body{
+  background:#0f172a;
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.counter{
+  background:#020617;
+  color:white;
+  padding:30px;
+  border-radius:12px;
+  text-align:center;
+}
+
+button{
+  padding:8px 16px;
+  margin:6px;
+  border:none;
+  border-radius:8px;
+  font-size:18px;
+  cursor:pointer;
+}
